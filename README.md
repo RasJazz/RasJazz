@@ -1,4 +1,4 @@
-## :wave: Hi, I'm RasJazz!
+## :wave: Hi, I'm Jasmine!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jasminerasmussen) [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=plastic&logo=Itch.io&logoColor=white)](https://b1scotti.itch.io/)
 #### _About Me_
 - Studying Computer Science & Art @ San Diego State University<br>
