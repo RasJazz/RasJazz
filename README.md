@@ -3,6 +3,7 @@
 #### _About Me_
 - Studying Computer Science & Art @ San Diego State University<br>
 - Engineer @ [Waxheart Team](https://waxheart.info/)<br>
+- Member of [Aztec Game Lab](https://www.instagram.com/aztecgamelab/?hl=en)<br>
 - Currently learning graphics programming, Unreal Engine, & RESTful APIs<br>
 - Here to collaborate with like-minded individuals & share my personal projects<br>
 - _In the ideation phase of an unannounced personal project_<br>
