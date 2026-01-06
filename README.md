@@ -1,10 +1,10 @@
 ## :wave: Hi, I'm Jasmine!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jasminerasmussen) [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=plastic&logo=Itch.io&logoColor=white)](https://b1scotti.itch.io/)
 #### _About Me_
-- Studying Computer Science & Art @ San Diego State University<br>
-- Engineer @ [Waxheart Team](https://waxheart.info/)<br>
-- Member of [Aztec Game Lab](https://www.instagram.com/aztecgamelab/?hl=en)<br>
-- Currently learning graphics programming, Unreal Engine, & RESTful APIs<br>
+- Associate Engineer @ [Waxheart Team](https://waxheart.info/)<br>
+- B.S. in Computer Science, minored in Art @ San Diego State University<br>
+- Former member of [Aztec Game Lab](https://www.instagram.com/aztecgamelab/?hl=en)<br>
+- Currently learning graphics programming and Unreal Engine<br>
 - Here to collaborate with like-minded individuals & share my personal projects<br>
 - _In the ideation phase of an unannounced personal project_<br>
 #### _Hobbies_
