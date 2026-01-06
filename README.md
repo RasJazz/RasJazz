@@ -1,7 +1,7 @@
 ## :wave: Hi, I'm Jasmine!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jasminerasmussen) [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=plastic&logo=Itch.io&logoColor=white)](https://b1scotti.itch.io/)
 #### _About Me_
-- Associate Engineer @ [Waxheart Team](https://waxheart.info/)<br>
+- Associate Engineer @ [WaxHeart Team](https://waxheart.info/)<br>
 - B.S. in Computer Science, minored in Art @ San Diego State University<br>
 - Former member of [Aztec Game Lab](https://www.instagram.com/aztecgamelab/?hl=en)<br>
 - Currently learning graphics programming and Unreal Engine<br>
